@@ -1,0 +1,34 @@
+{
+  "Series": {
+    "data": [
+      {
+        "id": "1",
+        "titulo": "Stranger Things",
+        "dataLancamento": "10/09/2018",
+        "faixaEtaria": "14",
+        "genero": "Ficção"
+      },
+      {
+        "id": "2",
+        "titulo": "The Crown",
+        "dataLancamento": "01/07/2017",
+        "faixaEtaria": "16",
+        "genero": "Drama"
+      },
+      {
+        "id": "3",
+        "titulo": "Perdidos no Espaço",
+        "dataLancamento": "17/05/2019",
+        "faixaEtaria": "14",
+        "genero": "Ficção Científica"
+      },
+      {
+        "id": "4",
+        "titulo": "Anne With an E",
+        "dataLancamento": "25/01/2020",
+        "faixaEtaria": "16",
+        "genero": "Fantasia"
+       }
+    ]
+  }
+}
